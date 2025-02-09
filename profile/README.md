@@ -1,5 +1,10 @@
 # 위치 기반 펫 산책 서비스 및 실시간 채팅 & 커뮤니티 플랫폼
 
+
+| MAP | MYPAGE | ??? |
+| --- | --- | --- |
+| ![ezgif-1a4207e3f06a75](https://github.com/user-attachments/assets/ac34b393-8ffe-4e48-b29a-859ba468b9eb) |  ![ezgif-1ead4900a5446b](https://github.com/user-attachments/assets/2c074743-3b54-4975-8735-b2462cfd112b) |  ![Image](https://github.com/user-attachments/assets/a0d63703-f04e-414a-82d5-840d9a9e2ae9) |
+
 - **개발 기간** : `2024/12/16~2025/02/09`
 - **주요 기능**
     - 사용자 위치 기반 산책 서비스
@@ -71,9 +76,7 @@
 ## 🧩 기능
 
 
-| MAP | MYPAGE | ??? |
-| --- | --- | --- |
-| ![image](https://github.com/user-attachments/assets/30b5a7d0-1168-4ef8-bfe6-8a4785c4422f)| ![image](https://github.com/user-attachments/assets/9b04b51c-05c9-4e37-9d4f-777166c9eb3a)  | ![Image](https://github.com/user-attachments/assets/a0d63703-f04e-414a-82d5-840d9a9e2ae9) |
+
 
 
 
@@ -81,10 +84,14 @@
 
 ## 지도
 
+
+
 | title1 | title2 | title3 |
 | --- | --- | --- |
-| ![Image](https://github.com/user-attachments/assets/b507806d-4ed0-4fe6-98fd-3d65b2781e4b) |![Image](https://github.com/user-attachments/assets/4b7ccd32-4ae2-4d53-a55a-73663ccac867) | ![Image](https://github.com/user-attachments/assets/da997c35-8de0-4950-8f86-67af200fba73)
- |
+ ![2025-02-10 06 25 09 (2)](https://github.com/user-attachments/assets/27cc7e9f-6c0d-4d3a-9825-371c2e1fc9d3) | ![2025-02-10 06 25 09 (4)](https://github.com/user-attachments/assets/a439ec3c-b511-49c1-94b9-e73454919956) | ![2025-02-10 06 25 09 (5)](https://github.com/user-attachments/assets/7e0f13d5-e175-4188-bc2d-7df504798541) 
+
+
+
 
 
 
@@ -94,20 +101,11 @@
 
 | 커뮤니티 메인 | title2 | title3 |
 | --- | --- | --- |
-| ![Image](https://github.com/user-attachments/assets/2fb411e3-fe4e-43f5-8d29-65c6b1230ce2)| ![Image](https://github.com/user-attachments/assets/973886ef-bf85-4b79-9cc1-d32793bfc132) | ![Image](https://github.com/user-attachments/assets/b448b5ba-8091-45a3-9306-74dcfefdcca7) | 
+![2025-02-10 06 15 21](https://github.com/user-attachments/assets/1c98bed0-0541-42fa-8ab7-b4dd6787b3e9) | ![2025-02-10 06 15 22 (3)](https://github.com/user-attachments/assets/4c217ee0-e42e-477d-bd4d-68afab32a82b) |  ![2025-02-10 06 15 22 (4)](https://github.com/user-attachments/assets/b61cedfd-e2ea-46ae-9e83-7da543da9aaf)
 
 | title1 | title2 | title3 |
 | --- | --- | --- |
- ![Image](https://github.com/user-attachments/assets/129add2d-ef72-43aa-a9a1-ab4cc7a2aee8) |![Image](https://github.com/user-attachments/assets/6191dae9-779b-4e5b-b2b0-65862012fec0) | ![Image](https://github.com/user-attachments/assets/fc30465d-f6bb-47c8-a606-13d7748a172b) | 
-
----
-
-
-
-
-
-
-
+| ![2025-02-10 06 15 21 (2)](https://github.com/user-attachments/assets/fa60fb11-ac4a-4feb-a901-2447cf8a8e21)  | ![2025-02-10 06 15 22](https://github.com/user-attachments/assets/db0771e0-77ca-4a58-9c53-0135f2ebe8ef) |  ![2025-02-10 06 15 21 (3)](https://github.com/user-attachments/assets/4e29ed2b-d4cb-4aaa-8a77-0d309062d8f2)
 
 
 
@@ -115,9 +113,9 @@
 
 ## 채팅
 
-| 채팅 리스트 | 채팅방 | 
-| --- | --- |
-|![Image](https://github.com/user-attachments/assets/05084e9f-c37c-412d-b5db-0c56d9f4d6c7)  |  ![Image](https://github.com/user-attachments/assets/fb382857-4379-48fa-bd88-3ada03e095b5)
+| 채팅 리스트 | 채팅방 | 채팅방 | 
+| --- | --- | --- |
+|  |    |    |   
 
 
 
@@ -125,11 +123,13 @@
 ## **마이페이지**
 
 
+
+
 | 메인페이지 (1) | 메인페이지 (2) | 반려견 정보 보기 |  
 | --- | --- | --- |
-|  ![Image](https://github.com/user-attachments/assets/c39206fd-2d22-4940-bfa0-1b6442a67b79) | ![Image](https://github.com/user-attachments/assets/ae8e5476-28ff-4c7e-bebc-99c475e80b8d) | ![Image](https://github.com/user-attachments/assets/8547b916-7914-493b-ad93-6e905bf3eb10) 
+|![2025-02-10 06 15 22 (5)](https://github.com/user-attachments/assets/e2cbf54a-da05-4335-bf4d-073291876548) | ![2025-02-10 06 15 22 (9)](https://github.com/user-attachments/assets/266c8fdd-fe38-42d3-bead-3df1a26b5025) |  ![2025-02-10 06 15 22 (6)](https://github.com/user-attachments/assets/d5e07f81-8dab-4b85-94fe-969af5a0a75f)
 
 | 팔로워 페이지 | 팔로잉 페이지 | 
 | --- | --- |
- ![Image](https://github.com/user-attachments/assets/995dc51a-b54f-485a-a16e-9b2eb0c500a7)  | ![Image](https://github.com/user-attachments/assets/9db22a83-e69f-40a7-b32b-211de326ded0) 
+![2025-02-10 06 15 22 (7)](https://github.com/user-attachments/assets/20c44a46-a7f0-4887-becf-0308d69a244c) | ![2025-02-10 06 15 22 (8)](https://github.com/user-attachments/assets/0f07248f-52ee-49f4-b202-e87828913603)
 
