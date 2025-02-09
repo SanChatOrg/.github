@@ -67,22 +67,69 @@
 
 ## 🧩 기능
 
-<details>
-  <summary>지도</summary>
 
-</details>
+## 🧩 기능
 
-<details>
-  <summary>커뮤니티</summary>
 
-</details>
+| MAP | MYPAGE | ??? |
+| --- | --- | --- |
+| ![image](https://github.com/user-attachments/assets/30b5a7d0-1168-4ef8-bfe6-8a4785c4422f)| ![image](https://github.com/user-attachments/assets/9b04b51c-05c9-4e37-9d4f-777166c9eb3a)  | ![Image](https://github.com/user-attachments/assets/a0d63703-f04e-414a-82d5-840d9a9e2ae9) |
 
-<details>
-  <summary>채팅</summary>
 
-</details>
 
-<details>
-  <summary>마이페이지</summary>
 
-</details>
+
+## 지도
+
+| title1 | title2 | title3 |
+| --- | --- | --- |
+| ![Image](https://github.com/user-attachments/assets/b507806d-4ed0-4fe6-98fd-3d65b2781e4b) |![Image](https://github.com/user-attachments/assets/4b7ccd32-4ae2-4d53-a55a-73663ccac867) | ![Image](https://github.com/user-attachments/assets/da997c35-8de0-4950-8f86-67af200fba73)
+ |
+
+
+
+
+
+## 커뮤니티
+
+| 커뮤니티 메인 | title2 | title3 |
+| --- | --- | --- |
+| ![Image](https://github.com/user-attachments/assets/2fb411e3-fe4e-43f5-8d29-65c6b1230ce2)| ![Image](https://github.com/user-attachments/assets/973886ef-bf85-4b79-9cc1-d32793bfc132) | ![Image](https://github.com/user-attachments/assets/b448b5ba-8091-45a3-9306-74dcfefdcca7) | 
+
+| title1 | title2 | title3 |
+| --- | --- | --- |
+ ![Image](https://github.com/user-attachments/assets/129add2d-ef72-43aa-a9a1-ab4cc7a2aee8) |![Image](https://github.com/user-attachments/assets/6191dae9-779b-4e5b-b2b0-65862012fec0) | ![Image](https://github.com/user-attachments/assets/fc30465d-f6bb-47c8-a606-13d7748a172b) | 
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+## 채팅
+
+| 채팅 리스트 | 채팅방 | 
+| --- | --- |
+|![Image](https://github.com/user-attachments/assets/05084e9f-c37c-412d-b5db-0c56d9f4d6c7)  |  ![Image](https://github.com/user-attachments/assets/fb382857-4379-48fa-bd88-3ada03e095b5)
+
+
+
+
+## **마이페이지**
+
+
+| 메인페이지 (1) | 메인페이지 (2) | 반려견 정보 보기 |  
+| --- | --- | --- |
+|  ![Image](https://github.com/user-attachments/assets/c39206fd-2d22-4940-bfa0-1b6442a67b79) | ![Image](https://github.com/user-attachments/assets/ae8e5476-28ff-4c7e-bebc-99c475e80b8d) | ![Image](https://github.com/user-attachments/assets/8547b916-7914-493b-ad93-6e905bf3eb10) 
+
+| 팔로워 페이지 | 팔로잉 페이지 | 
+| --- | --- |
+ ![Image](https://github.com/user-attachments/assets/995dc51a-b54f-485a-a16e-9b2eb0c500a7)  | ![Image](https://github.com/user-attachments/assets/9db22a83-e69f-40a7-b32b-211de326ded0) 
+
