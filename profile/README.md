@@ -68,6 +68,21 @@
 ## 🧩 기능
 
 <details>
-  <summary>기능 제목</summary>
+  <summary>지도</summary>
+
+</details>
+
+<details>
+  <summary>커뮤니티</summary>
+
+</details>
+
+<details>
+  <summary>채팅</summary>
+
+</details>
+
+<details>
+  <summary>마이페이지</summary>
 
 </details>
