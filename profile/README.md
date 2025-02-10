@@ -3,7 +3,7 @@
 
 | MAP | MYPAGE | COMMUNITY |
 | --- | --- | --- |
-| ![ezgif-1a4207e3f06a75](https://github.com/user-attachments/assets/ac34b393-8ffe-4e48-b29a-859ba468b9eb) |  ![ezgif-1ead4900a5446b](https://github.com/user-attachments/assets/2c074743-3b54-4975-8735-b2462cfd112b) |  <img src="https://github.com/user-attachments/assets/2648f6c1-07fd-4f7e-b8eb-044284a80efb" width="320" height="630"> |
+| ![ezgif-5fc8715f7a6663](https://github.com/user-attachments/assets/faa6f242-0f39-4419-963c-d531b611d4bb) |  ![ezgif-5da3ddaae5ced5](https://github.com/user-attachments/assets/da11ca85-ffb1-4ea4-9e4a-f26da69d7bbb) |  <img src="https://github.com/user-attachments/assets/2648f6c1-07fd-4f7e-b8eb-044284a80efb" width="320" height="630"> |
 
 - **개발 기간** : `2024/12/16~2025/02/09`
 - **주요 기능**
