@@ -1,9 +1,9 @@
 # 위치 기반 펫 산책 서비스 및 실시간 채팅 & 커뮤니티 플랫폼
 
 
-| MAP | MYPAGE | ??? |
+| MAP | MYPAGE | COMMUNITY |
 | --- | --- | --- |
-| ![ezgif-1a4207e3f06a75](https://github.com/user-attachments/assets/ac34b393-8ffe-4e48-b29a-859ba468b9eb) |  ![ezgif-1ead4900a5446b](https://github.com/user-attachments/assets/2c074743-3b54-4975-8735-b2462cfd112b) |  ![Image](https://github.com/user-attachments/assets/a0d63703-f04e-414a-82d5-840d9a9e2ae9) |
+| ![ezgif-1a4207e3f06a75](https://github.com/user-attachments/assets/ac34b393-8ffe-4e48-b29a-859ba468b9eb) |  ![ezgif-1ead4900a5446b](https://github.com/user-attachments/assets/2c074743-3b54-4975-8735-b2462cfd112b) |  <img src="https://github.com/user-attachments/assets/2648f6c1-07fd-4f7e-b8eb-044284a80efb" width="320" height="630"> |
 
 - **개발 기간** : `2024/12/16~2025/02/09`
 - **주요 기능**
@@ -98,13 +98,15 @@
 
 ## 커뮤니티
 
-| 커뮤니티 메인 | title2 | title3 |
+| 커뮤니티 메인 | 커뮤니티 상‍‍세 | 커뮤니티 상‍‍세 |
 | --- | --- | --- |
 ![2025-02-10 06 15 21](https://github.com/user-attachments/assets/1c98bed0-0541-42fa-8ab7-b4dd6787b3e9) | ![2025-02-10 06 15 22 (3)](https://github.com/user-attachments/assets/4c217ee0-e42e-477d-bd4d-68afab32a82b) |  ![2025-02-10 06 15 22 (4)](https://github.com/user-attachments/assets/b61cedfd-e2ea-46ae-9e83-7da543da9aaf)
 
-| title1 | title2 | title3 |
+| 커뮤니티 작성 | 커뮤니티 작성 | 커뮤니티 수정 |
 | --- | --- | --- |
-| ![2025-02-10 06 15 21 (2)](https://github.com/user-attachments/assets/fa60fb11-ac4a-4feb-a901-2447cf8a8e21)  | ![2025-02-10 06 15 22](https://github.com/user-attachments/assets/db0771e0-77ca-4a58-9c53-0135f2ebe8ef) |  ![2025-02-10 06 15 21 (3)](https://github.com/user-attachments/assets/4e29ed2b-d4cb-4aaa-8a77-0d309062d8f2)
+| ![2025-02-10 06 15 21 (2)](https://github.com/user-attachments/assets/fa60fb11-ac4a-4feb-a901-2447cf8a8e21)  | ![2025-02-10 06 15 22](https://github.com/user-attachments/assets/db0771e0-77ca-4a58-9c53-0135f2ebe8ef) |  ![스크린샷 2025-02-10 232209](https://github.com/user-attachments/assets/9e2d9c77-2b31-4585-9252-003a9e0cfe47)
+
+
 
 
 
