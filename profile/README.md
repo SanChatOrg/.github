@@ -1,9 +1,9 @@
 # 위치 기반 펫 산책 서비스 및 실시간 채팅 & 커뮤니티 플랫폼
 
 
-| MAP | MYPAGE | COMMUNITY |
+|  |  |  | 
 | --- | --- | --- |
-| ![ezgif-5fc8715f7a6663](https://github.com/user-attachments/assets/faa6f242-0f39-4419-963c-d531b611d4bb) |  ![ezgif-5da3ddaae5ced5](https://github.com/user-attachments/assets/da11ca85-ffb1-4ea4-9e4a-f26da69d7bbb) |  <img src="https://github.com/user-attachments/assets/2648f6c1-07fd-4f7e-b8eb-044284a80efb" width="250px" hegiht=""> |
+| <img src="https://github.com/user-attachments/assets/faa6f242-0f39-4419-963c-d531b611d4bb" width="250px" hegiht=""> |<img src="https://github.com/user-attachments/assets/59439d52-5412-402c-89e0-768cfd07dd31" width="250px" hegiht=""> | <img src="https://github.com/user-attachments/assets/da11ca85-ffb1-4ea4-9e4a-f26da69d7bbb" width="250px" hegiht=""> | 
 
 - **개발 기간** : `2024/12/16~2025/02/09`
 - **주요 기능**
