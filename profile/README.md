@@ -3,7 +3,7 @@
 
 | MAP | MYPAGE | COMMUNITY |
 | --- | --- | --- |
-| ![ezgif-5fc8715f7a6663](https://github.com/user-attachments/assets/faa6f242-0f39-4419-963c-d531b611d4bb) |  ![ezgif-5da3ddaae5ced5](https://github.com/user-attachments/assets/da11ca85-ffb1-4ea4-9e4a-f26da69d7bbb) |  <img src="https://github.com/user-attachments/assets/2648f6c1-07fd-4f7e-b8eb-044284a80efb" width="320" height="630"> |
+| ![ezgif-5fc8715f7a6663](https://github.com/user-attachments/assets/faa6f242-0f39-4419-963c-d531b611d4bb) |  ![ezgif-5da3ddaae5ced5](https://github.com/user-attachments/assets/da11ca85-ffb1-4ea4-9e4a-f26da69d7bbb) |  <img src="https://github.com/user-attachments/assets/2648f6c1-07fd-4f7e-b8eb-044284a80efb" width="300px" hegiht="300px"> |
 
 - **개발 기간** : `2024/12/16~2025/02/09`
 - **주요 기능**
@@ -85,7 +85,7 @@
 
 
 
-| title1 | title2 | title3 |
+| 지도 메인 | 산책 중 | 상대 프로필 보기  |
 | --- | --- | --- |
  ![2025-02-10 06 25 09 (2)](https://github.com/user-attachments/assets/27cc7e9f-6c0d-4d3a-9825-371c2e1fc9d3) | ![2025-02-10 06 25 09 (4)](https://github.com/user-attachments/assets/a439ec3c-b511-49c1-94b9-e73454919956) | ![2025-02-10 06 25 09 (5)](https://github.com/user-attachments/assets/7e0f13d5-e175-4188-bc2d-7df504798541) 
 
