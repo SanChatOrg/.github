@@ -111,10 +111,9 @@
 
 ### 채팅
 
-| 채팅 리스트 | 채팅방 | 채팅방 | 
-| --- | --- | --- |
-|  | ![image](https://github.com/user-attachments/assets/2728416f-9840-4c35-bdde-84fde17b0ae2) |   
- |   
+| 채팅 리스트 | 채팅방 |
+| --- | --- |
+|  | ![스크린샷 2025-02-11 오후 5.53.17](https://github.com/user-attachments/assets/f24fad26-d4cd-4aff-bd70-6d754212eb1b) |     
 
 
 <br/>
