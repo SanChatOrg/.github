@@ -108,14 +108,13 @@
 <br/>
 
 
-
-### 채팅
-
 <div align="center">
+    
+### 채팅
 
 | 채팅 리스트 | 채팅방 |
 | --- | --- |
-| <img src="https://github.com/user-attachments/assets/abc0c694-ced5-4972-8c9e-d5e3efe5b4f8" width="500px" height="850px"> | <img src="https://github.com/user-attachments/assets/e1585ef0-ef93-47b3-8a19-5e5a02ae4619" width="500px" height="850px"> |
+| <img src="https://github.com/user-attachments/assets/abc0c694-ced5-4972-8c9e-d5e3efe5b4f8" width="350px" height="625px"> | <img src="https://github.com/user-attachments/assets/e1585ef0-ef93-47b3-8a19-5e5a02ae4619" width="350px" height="625px"> |
 
 </div>
 
@@ -134,7 +133,7 @@
 
 | **팔로워 페이지** | **팔로잉 페이지** |
 | --- | --- |
-| <img src="https://github.com/user-attachments/assets/20c44a46-a7f0-4887-becf-0308d69a244c" width="500px" height="850px" style="display: block; margin: auto;"> | <img src="https://github.com/user-attachments/assets/0f07248f-52ee-49f4-b202-e87828913603" width="500px" height="850px" style="display: block; margin: auto;"> |
+| <img src="https://github.com/user-attachments/assets/20c44a46-a7f0-4887-becf-0308d69a244c" width="350px" height="625px" style="display: block; margin: auto;"> | <img src="https://github.com/user-attachments/assets/0f07248f-52ee-49f4-b202-e87828913603" width="350px" height="625px" style="display: block; margin: auto;"> |
 
 </div>
 
