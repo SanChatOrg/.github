@@ -5,7 +5,8 @@
 ## 🎦 기능 시연
 | MAP | MYPAGE | COMMUNITY | 
 | --- | --- | --- |
-| <img src="https://github.com/user-attachments/assets/faa6f242-0f39-4419-963c-d531b611d4bb" width="250px" height="525px"> |  <img src="https://github.com/user-attachments/assets/da11ca85-ffb1-4ea4-9e4a-f26da69d7bbb" width="250px" height="525px"> |  <img src="https://github.com/user-attachments/assets/2648f6c1-07fd-4f7e-b8eb-044284a80efb" width="250px" height="525px"> |
+| <img src="https://github.com/user-attachments/assets/faa6f242-0f39-4419-963c-d531b611d4bb" width="250px" height="525px"> |  <img src="https://github.com/user-attachments/assets/da11ca85-ffb1-4ea4-9e4a-f26da69d7bbb" width="250px" height="525px"> |  <img src="https://github.com/user-attachments/assets/0d553ba2-d7cd-4b93-88bf-ee8177cdbc55" width="250px" height="525px"> |
+
 
 <br/>
 
