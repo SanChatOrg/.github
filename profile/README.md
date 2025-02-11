@@ -5,7 +5,7 @@
 ## 🎦 기능 시연
 | MAP | MYPAGE | COMMUNITY | 
 | --- | --- | --- |
-| <img src="https://github.com/user-attachments/assets/faa6f242-0f39-4419-963c-d531b611d4bb" width="250px" height="525"> |  <img src="https://github.com/user-attachments/assets/da11ca85-ffb1-4ea4-9e4a-f26da69d7bbb" width="250px" height="525"> |  <img src="https://github.com/user-attachments/assets/2648f6c1-07fd-4f7e-b8eb-044284a80efb" width="250px" height="525"> |
+| <img src="https://github.com/user-attachments/assets/faa6f242-0f39-4419-963c-d531b611d4bb" width="250px" height="525px"> |  <img src="https://github.com/user-attachments/assets/da11ca85-ffb1-4ea4-9e4a-f26da69d7bbb" width="250px" height="525px"> |  <img src="https://github.com/user-attachments/assets/2648f6c1-07fd-4f7e-b8eb-044284a80efb" width="250px" height="525px"> |
 
 <br/>
 
@@ -111,10 +111,13 @@
 
 ### 채팅
 
+<div align="center">
+
 | 채팅 리스트 | 채팅방 |
 | --- | --- |
-| ![스크린샷 2025-02-11 오후 6.00.40](https://github.com/user-attachments/assets/abc0c694-ced5-4972-8c9e-d5e3efe5b4f8) | ![스크린샷 2025-02-11 오후 5.53.17](https://github.com/user-attachments/assets/e1585ef0-ef93-47b3-8a19-5e5a02ae4619) |     
+| <img src="https://github.com/user-attachments/assets/abc0c694-ced5-4972-8c9e-d5e3efe5b4f8" width="500px" height="850px"> | <img src="https://github.com/user-attachments/assets/e1585ef0-ef93-47b3-8a19-5e5a02ae4619" width="500px" height="850px"> |
 
+</div>
 
 <br/>
 
@@ -127,7 +130,11 @@
 | --- | --- | --- |
 |![2025-02-10 06 15 22 (5)](https://github.com/user-attachments/assets/e2cbf54a-da05-4335-bf4d-073291876548) | ![2025-02-10 06 15 22 (9)](https://github.com/user-attachments/assets/266c8fdd-fe38-42d3-bead-3df1a26b5025) |  ![2025-02-10 06 15 22 (6)](https://github.com/user-attachments/assets/d5e07f81-8dab-4b85-94fe-969af5a0a75f)
 
-| 팔로워 페이지 | 팔로잉 페이지 | 
+<div align="center">
+
+| **팔로워 페이지** | **팔로잉 페이지** |
 | --- | --- |
-![2025-02-10 06 15 22 (7)](https://github.com/user-attachments/assets/20c44a46-a7f0-4887-becf-0308d69a244c) | ![2025-02-10 06 15 22 (8)](https://github.com/user-attachments/assets/0f07248f-52ee-49f4-b202-e87828913603)
+| <img src="https://github.com/user-attachments/assets/20c44a46-a7f0-4887-becf-0308d69a244c" width="500px" height="850px" style="display: block; margin: auto;"> | <img src="https://github.com/user-attachments/assets/0f07248f-52ee-49f4-b202-e87828913603" width="500px" height="850px" style="display: block; margin: auto;"> |
+
+</div>
 
