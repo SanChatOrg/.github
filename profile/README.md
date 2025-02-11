@@ -113,7 +113,8 @@
 
 | 채팅 리스트 | 채팅방 | 채팅방 | 
 | --- | --- | --- |
-|  |  |    |   
+|  | <img width="506" alt="image" src="https://github.com/user-attachments/assets/2728416f-9840-4c35-bdde-84fde17b0ae2" /> |   
+ |   
 
 
 <br/>
