@@ -113,7 +113,7 @@
 
 | 채팅 리스트 | 채팅방 |
 | --- | --- |
-|  | ![스크린샷 2025-02-11 오후 5.53.17](https://github.com/user-attachments/assets/f24fad26-d4cd-4aff-bd70-6d754212eb1b) |     
+|  | ![스크린샷 2025-02-11 오후 5.53.17](https://github.com/user-attachments/assets/e1585ef0-ef93-47b3-8a19-5e5a02ae4619) |     
 
 
 <br/>
